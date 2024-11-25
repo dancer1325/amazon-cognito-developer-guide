@@ -94,10 +94,21 @@
 
 ## Regional availability<a name="getting-started-regional-availability"></a>
 
-* TODO:
-Amazon Cognito is available in multiple AWS Regions worldwide\. In each Region, Amazon Cognito is distributed across multiple Availability Zones\. These Availability Zones are physically isolated from each other, but are united by private, low\-latency, high\-throughput, and highly redundant network connections\. These Availability Zones enable AWS to provide services, including Amazon Cognito, with very high levels of availability and redundancy, while also minimizing latency\.
-
-For a list of all the Regions where Amazon Cognito is currently available, see [AWS regions and endpoints](https://docs.aws.amazon.com/general/latest/gr/rande.html##cognito_identity_region) in the *Amazon Web Services General Reference*\. To learn more about the number of Availability Zones that are available in each Region, see [AWS global infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)\.
+* Amazon Cognito
+  * available | 
+    * MULTIPLE AWS Regions &
+      * see [AWS regions and endpoints](https://docs.aws.amazon.com/general/latest/gr/rande.html##cognito_identity_region)
+    * MULTIPLE AWS AZ / 
+      * EACH region
+      * -- from -- EACH other
+        * physically isolated
+        * united by network connections
+          * private,
+          * low\-latency,
+          * high\-throughput,
+          * highly redundant 
+      * enable AWS -- to provide -- services (_Example:_ Amazon Cognito)
+      * see [AWS global infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
 
 ## Pricing for Amazon Cognito<a name="pricing-for-amazon-cognito"></a>
 
